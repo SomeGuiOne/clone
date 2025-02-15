@@ -11,7 +11,7 @@ const Footer = () => {
             <span className="underline text-blue">
             Encontrar uma Apple Store {' '}
             </span>
-            or {' '}
+            ou {' '}
             <span className="underline text-blue">
             outro retalhista
             </span>{' '}
