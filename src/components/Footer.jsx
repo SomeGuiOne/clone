@@ -15,7 +15,7 @@ const Footer = () => {
             <span className="underline text-blue">
             outro retalhista
             </span>{' '}
-            near you.
+            próximo de você.
           </p>
           <p className="font-semibold text-gray text-xs">
           Ou ligue para 11951492185
@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Copright Guilherme Dev @2025 Apple Inc. All rights reserved.</p>
+          <p className="font-semibold text-gray text-xs">Copyright Guilherme Dev @2025 Apple Inc. Todos os direitos reservados.</p>
           <div className="flex">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">
